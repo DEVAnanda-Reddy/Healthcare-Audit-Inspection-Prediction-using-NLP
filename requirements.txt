@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+nltk
+matplotlib
+seaborn
+scipy
+joblib
+pickle5
+streamlit
+flask
+gunicorn
+xgboost
+lightgbm
+catboost
+transformers
+torch

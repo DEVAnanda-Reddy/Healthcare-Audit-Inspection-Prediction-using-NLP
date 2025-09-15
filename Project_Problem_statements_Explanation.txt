@@ -1,0 +1,9 @@
+My client health care compnay is requsted for auditing of their drugs and their process:
+
+By taking Observation of auditing Inspector information:
+problem statmt1: I want you to build a model to Predict whether data integrity relates issues are there or not(DI_Flag column).
+Problem statmt2: I want you to build a model to predict whether REPEAT_OBSERVATION is needed or NOT(REPEAT_OBSERVATION).
+Problem statmt3: I want you to build a model to predict Outcome of the auditing Inspection (Outcome).
+Problem statmt4: I want you to build a model to predict ObservationRating of the auditing Inspection (ObservationRating).
+
+The goal odf these models is, in future if any inspection is happening, we can predict above outcome from the observation description given by the Auditing Inspector:
